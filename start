@@ -1,0 +1,6 @@
+git clone https://gitexercises.fracz.com/git/exercises.git
+cd exercises
+git config user.name "Ryan James J. Martinez"
+git config user.email "ryanjames.martinez@g.msuiit.edu.ph"
+./configure.sh
+git start
